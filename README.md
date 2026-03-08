@@ -439,4 +439,4 @@ Contributions are welcome. Please open an issue or pull request on GitHub.
 
 ## License
 
-[Specify your license here]
+MIT License
